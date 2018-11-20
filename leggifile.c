@@ -7,3 +7,5 @@ while (fscanf_result != EOF) {
 	n++;
 	}
 n--;
+
+fclose(fp);
